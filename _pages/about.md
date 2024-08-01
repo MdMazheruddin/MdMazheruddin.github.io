@@ -20,17 +20,17 @@ Research Interests
  - Human-Computer Interaction(HCI)
  - Y86-64/RISC-V CPU/SoC Design and Verification(Digital VLSI)
  - CPU/GPU/TPU/NPU/APU/XPU/HPC
+ - Quantum computing
+ - Quantum Computing interface in vlsi architecture
+   
 
 Career Overview
 ---------------
- - [Feb, 2024 - Present] Full-time Verification Engineer at SiSoC Semiconductor Technologies.[OpenPiton, Ariane, CLARVI, and Mor1KX]
+ - [March, 2024 - Present] Full-time Verification Engineer at SiSoC Semiconductor Technologies.[OpenPiton, Ariane, CLARVI, and Mor1KX]
          - Hiring and mentoring employees(RISC-V Design & Verification from scratch)
          - X86/ARM/RISC-V(exploring advanced computer architecture and broad spectrum of VLSI, LLVM, and Compilers, developing simulators. 
- - [February, 2023 - Nov, 2023] Verification Engineer at Chiplogic Technologies[RISC-V Architecture Verification, Codasip client].
- -  [September, 2021 - Dec, 2022] Verification Engineer at Scaledge Technology[RISC-V Verification(CVA6 and Ibex core), ASIC Verification Engineer, Intel client].
-      - Worked on DFD project.
-      - Internships
-         - [March, 2021 - Sep, 2021] Functional Verification(DV Trainee).
-         - Digital Design, Verilog, SystemVerilog, UVM.
- - [Jan, 2020 - Nov, 2020] Worked at Sakthi CADD as Embedded Hardware Design Engineer.
- - [2015 - 2019] B.E from IES College Of Technnology, Bhopal.
+ - [September,2022 - Nov, 2023] Verification Engineer at Chiplogic Technologies[RISC-V Architecture Verification, Codasip client].
+ -  [September, 2021 - April, 2022] Verification Engineer at Cyient Pvt Ltd[Polar fire (FPGA) (firmware), Verification Engineer, Microchip client].
+ -  [May, 2021 - Setember, 2021] Verification Engineer at Pozibility Technologies Pvt Ltd[Verification of AMBA AXI,Verification Engineer].
+ -  [Jan, 2019 - April, 2021] Verification Engineer at Elechem Technologies Pvt Ltd[Verification of AMBA AHB,AES,I2C ,Verification Engineer].
+ - [2009 - 2013] B.Tech from ARKAY college of engineering and technology (JNTU), Hyderabad.
